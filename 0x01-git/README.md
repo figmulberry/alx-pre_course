@@ -1,1 +1,1 @@
-How to be up to date in git.
+I hope it's updated
